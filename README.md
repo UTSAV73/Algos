@@ -1,2 +1,2 @@
 # Algos
-## Some impoertant algos with their codes.
+## Some important algos with their codes.
